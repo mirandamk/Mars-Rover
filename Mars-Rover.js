@@ -105,7 +105,7 @@ let rover = {
   }
   
   
-  command(rover, "rffrfflfrff");
+  command(rover, "rffrfflfrf");
   
   
   
